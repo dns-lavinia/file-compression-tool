@@ -2,7 +2,7 @@
 This is a file compression tool that can compress and decompress a file, based on the LZW algorithm
 
 ## Motivation
-This is meant to be a project for the Algorithm Design and Analysis subject 
+This is meant to be a project for the *Algorithm Design and Analysis* subject 
 
 ## How to use?
 The only prerequisite for this program to work is to have a python interpreter installed  
